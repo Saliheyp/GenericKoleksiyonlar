@@ -1,0 +1,15 @@
+D:\Patika\GenericKoleksiyonlar\bin\Debug\net7.0\GenericKoleksiyonlar.exe
+D:\Patika\GenericKoleksiyonlar\bin\Debug\net7.0\GenericKoleksiyonlar.deps.json
+D:\Patika\GenericKoleksiyonlar\bin\Debug\net7.0\GenericKoleksiyonlar.runtimeconfig.json
+D:\Patika\GenericKoleksiyonlar\bin\Debug\net7.0\GenericKoleksiyonlar.dll
+D:\Patika\GenericKoleksiyonlar\bin\Debug\net7.0\GenericKoleksiyonlar.pdb
+D:\Patika\GenericKoleksiyonlar\obj\Debug\net7.0\GenericKoleksiyonlar.csproj.AssemblyReference.cache
+D:\Patika\GenericKoleksiyonlar\obj\Debug\net7.0\GenericKoleksiyonlar.GeneratedMSBuildEditorConfig.editorconfig
+D:\Patika\GenericKoleksiyonlar\obj\Debug\net7.0\GenericKoleksiyonlar.AssemblyInfoInputs.cache
+D:\Patika\GenericKoleksiyonlar\obj\Debug\net7.0\GenericKoleksiyonlar.AssemblyInfo.cs
+D:\Patika\GenericKoleksiyonlar\obj\Debug\net7.0\GenericKoleksiyonlar.csproj.CoreCompileInputs.cache
+D:\Patika\GenericKoleksiyonlar\obj\Debug\net7.0\GenericKoleksiyonlar.dll
+D:\Patika\GenericKoleksiyonlar\obj\Debug\net7.0\refint\GenericKoleksiyonlar.dll
+D:\Patika\GenericKoleksiyonlar\obj\Debug\net7.0\GenericKoleksiyonlar.pdb
+D:\Patika\GenericKoleksiyonlar\obj\Debug\net7.0\GenericKoleksiyonlar.genruntimeconfig.cache
+D:\Patika\GenericKoleksiyonlar\obj\Debug\net7.0\ref\GenericKoleksiyonlar.dll
